@@ -134,3 +134,4 @@ namespace Titled_Gui.Modules.Visual
         public float Yaw { get; } = yaw;
     }
 }
+
