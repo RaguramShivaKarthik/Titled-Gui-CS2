@@ -16,3 +16,4 @@ internal static class MoveMouse
         SendInput(1, inputs, Marshal.SizeOf(typeof(INPUT)));
     }
 }
+
